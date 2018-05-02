@@ -1,2 +1,3 @@
 # hello-world
-temporary repository for a tutorial
+
+I have heard a lot about Github and it's fun finally use it in a practical way.
